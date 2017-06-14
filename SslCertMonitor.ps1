@@ -68,10 +68,11 @@ $Private:TimeoutMilliseconds = 3000
 
 $Private:UrlList = @()
 
-$UrlList += 'https://www.lisknode.io'
-$UrlList += 'https://www.arknode.net'
 $UrlList += 'https://lisk.io'
 $UrlList += 'https://ark.io'
+$UrlList += 'https://www.shiftnrg.org/'
+$UrlList += 'https://www.lisknode.io'
+$UrlList += 'https://www.arknode.net'
 $UrlList += 'https://lisktools.io'
 
 ### E-Mail ###===============================================================================
