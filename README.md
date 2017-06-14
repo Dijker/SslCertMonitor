@@ -1,12 +1,13 @@
-Stand-alone PowerShell script to do end-user monitoring on SSL certificate(s) expiration date. It uses PowerShell so it run only on Windows.
+Stand-alone PowerShell script to do end-user monitoring on SSL certificate(s) expiration date.
+It uses PowerShell so it run only on Windows.
 
-##**Installation**
+## **Installation**
 
 Save a copy of SslCertMonitor.ps1
 
 This README use this path C:\Scripts\SslCertMonitor.ps1, adjust accordingly if you use something else.
 
-##**Configuration, Manual Usage & Testing**
+## **Configuration, Manual Usage & Testing**
 
 Open the script in your favorite text editor. Basic Notepad WILL work but not recommended. I recommend notepad++ available for free [HERE](https://notepad-plus-plus.org/).
 
@@ -64,7 +65,7 @@ Action  -> New
 			* Arguments:        C:\Scripts\SslCertMonitor.ps1
 			* WorkingDirectory: C:\Scripts\
 
-##**Troubleshooting & Common Error(s)**
+## **Troubleshooting & Common Error(s)**
 
 **It doesn’t work.**
 
