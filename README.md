@@ -31,7 +31,7 @@ In this section we will configure the address used to send and received the moni
 
 Config.          | Description                                                                    | Value Example
 ------------     | -------------                                                                  | -------------
-SenderEmail      | This is the e-mail that will be used as sender by the script.                  | = 'LiskMonitor@mydomain.com'
+SenderEmail      | This is the e-mail that will be used as sender by the script.                  | = 'SslCertMonitor@mydomain.com'
 SenderSmtp       | This is the domain or IP address the script will use as SMTP to send messages. | = 'smtp.myinternetprovider.com'
 SendErrorMail    | Enable/Disable the sending of errors messages.                                 | = $True
 ErrorEmailList   | E-mail List                                                                    | = @('home@mydomain.com', '1234567890@phoneprovider.com')
